@@ -1,5 +1,9 @@
 # This application specific
 output/*
+resources/*
+
+# Secrets  / API keys
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
