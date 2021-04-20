@@ -33,7 +33,7 @@ patent-client==1.1.4
 pathvalidate==0.16.2
 pluggy==0.13.1
 pubmed-lookup==0.2.3
-py==1.8.0
+py==1.10.0
 pymed==0.8.9
 pyparsing==2.4.5
 pypatent==1.2.0
